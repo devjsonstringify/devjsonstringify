@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm devjsonstringify</h1>
 <h3 align="left">Front-end developer from the Philippines. 🇵🇭</h3>
 
-- 👯 I’m looking to collaborate on **Front-end development**
+- 👯 I’m open for any collaborate on **Front-end development**
 - ⚡ Fun fact **I think I'm addicted to JavaScript and ecosystem.**
 - 📫 How to reach me dev.json.stringify@gmail.com I love talking to you stranger guy from the web 😁.
 
