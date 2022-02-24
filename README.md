@@ -17,3 +17,35 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjsonstringify&show_icons=true&locale=en" alt="devjsonstringify" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjsonstringify&" alt="devjsonstringify" /></p>
+
+> “At the end of the day we do not write code, we produce business outcomes. It starts with writing code.”  -internet
+
+
+
+                          .--`       :.                                                             
+                        :hNMMNdo`     /+`                                                           
+           -shdhyo/:-:+dMMMMMMMMy      .o::-:`                                                      
+          .NMMMMMMMMNMMMMMMMMNmMN       -y/-`/.                                                     
+      `   /MMMMMMMMMMMMMMMN//-.N+       .oy+.-/                                                     
+      -: `-dMMmNMMMMMMNhyhy--syhs.       -:sh+s                                                     
+       .++h+:.`NMMMMMdo++s .:.+oso+:.    .o+oyh-                                                    
+       `s.+yo. hMMNoyo+++y:`./h+yo+ooo++oso+oh./+`                                                  
+       ++  -o. `:/--y++++++ssso+ohosoooo++++y.  .o-                                                 
+       -h  .d+.`.-/so+++++++++++sy/-:-+oooo+`    `/+`                                               
+        /o+sssyoooo++oo++++++oso:..```.:/+.        .o-                                              
+         ohso+oys++o+h+++++oso-`..``   . ./`        `/+`                                            
+          -+yssshyo-`m+++oys:-.: `..//--`.:/`         .+-                                           
+             `...-/. yoosy+` `..` `osho:- .`:.    ./:  `//`                                         
+                  `::-yh+...-  -./o+-oyh-.-``:-  :+.+`   ./-./:                                     
+                    -/+ho/..-..ohy-`.-:oy+...-:::+  o``.-//+++h.                                    
+                     `/:+yyyys+/h:.```-+.+s:.`/.s..:h+++++oooh:                                     
+                       :/```    `y``:..`+ -y/y/ssooo+oso++/os.                                      
+                        .+-    `:+` -..-y:+oyoo+oyyys/://+s/                                        
+                          //`./+/.-.//oyyo++syyhso///oo+:.`             ````````                    
+                      `..:+yys- .:/ssyssyhhyo+++oso/:.                `..........``                 
+                  :o:/s/+--``y+..yshhhyyosysys+/-                    `.............`                
+                 -y` `s.:-`.-+yhhosmy+ooyyo/.                        ...............                
+                 h.`::.::/::-/hyohmysys/.                            ...............                
+                .y-o-        yssmms+-`                               `.............`                
+                `+/          `++-`                                    `...........`                 
+                                                                        ``.....``  
