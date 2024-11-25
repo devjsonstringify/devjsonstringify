@@ -3,9 +3,6 @@
 
 Eager to learn, grow, and tackle exciting challenges! 🚀</h3>
 
-📧 **Contact Me:**  
-- 📫 Email:  **dev.json.stringify@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 &nbsp;
 &nbsp;
