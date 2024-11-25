@@ -3,7 +3,7 @@
 
 Eager to learn, grow, and tackle exciting challenges! 🚀</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 &nbsp;
 &nbsp;
 <p align="center">
@@ -22,7 +22,19 @@ Eager to learn, grow, and tackle exciting challenges! 🚀</h3>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
   </a>
-</p>
+   <a href="https://www.python.org/downloads" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="120" height="80"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg" alt="chrome" width="100" height="80"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg" alt="firebox" width="120" height="80"/>
+  </a>
+   <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="120" height="80"/>
+  </a> 
+  </p>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
